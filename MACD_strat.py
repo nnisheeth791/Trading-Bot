@@ -5,7 +5,7 @@ import statsmodels.api as sm
 import time
 import copy
 
-con = fxcmpy.fxcmpy(access_token = "b6d5c4d4972d0ead44b7967f975e3c0b917d308f", 
+con = fxcmpy.fxcmpy(access_token = "blacked out api key", 
                     log_level = 'error', server = 'demo')
 pairs = ['EUR/USD', 'GBP/USD', 'USD/CHF', 'AUD/USD', 'USD/CAD']
 pos_size = 10
