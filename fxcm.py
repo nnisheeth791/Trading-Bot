@@ -2,7 +2,7 @@ import fxcmpy
 import time
 
 #token_path = "/Users/Naman/Desktop/Trading Bot/apitoken.txt"
-con = fxcmpy.fxcmpy(access_token = "b6d5c4d4972d0ead44b7967f975e3c0b917d308f", log_level = 'error', server = 'demo')
+con = fxcmpy.fxcmpy(access_token = "blocked out api key", log_level = 'error', server = 'demo')
 pair = 'EUR/USD'
 
 #get historical data
